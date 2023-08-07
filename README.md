@@ -139,4 +139,4 @@ WorkFit/
 
 ## Demonstration Video
 
-[WorkFit_DemonstrationVideo](https://youtu.be/6AiK-LXMT1k)
+[WorkFit_DemonstrationVideo](https://youtu.be/stHE-6r4zdA)
